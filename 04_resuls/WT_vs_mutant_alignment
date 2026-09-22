@@ -1,17 +1,17 @@
 ########################################
 # Program: needle
-# Rundate: Thu 17 Sep 2026 04:02:31
+# Rundate: Thu 17 Sep 2026 23:55:57
 # Commandline: needle
-#    -asequence /corral4/main/objects/a/e/6/dataset_ae6288d2-7cf1-448b-8cc7-bfc5a8354a3b.dat
-#    -bsequence /corral4/main/objects/b/e/3/dataset_be31ceea-1988-4c47-8a11-40026a774b24.dat
-#    -outfile /corral4/main/jobs/079/810/79810467/outputs/dataset_0cfdea8e-b335-498f-b0a0-88ba0039ef63.dat
+#    -asequence /jetstream2/scratch/main/jobs/79839719/inputs/dataset_ae6288d2-7cf1-448b-8cc7-bfc5a8354a3b.dat
+#    -bsequence /jetstream2/scratch/main/jobs/79839719/inputs/dataset_d5f6349f-4b4a-40f6-8336-186d40345473.dat
+#    -outfile /jetstream2/scratch/main/jobs/79839719/outputs/dataset_c2bc4924-87fa-4e43-adcc-38752dd44491.dat
 #    -gapopen 10.0
 #    -gapextend 0.5
 #    -brief yes
 #    -aformat3 srspair
 #    -auto
 # Align_format: srspair
-# Report_file: /corral4/main/jobs/079/810/79810467/outputs/dataset_0cfdea8e-b335-498f-b0a0-88ba0039ef63.dat
+# Report_file: /jetstream2/scratch/main/jobs/79839719/outputs/dataset_c2bc4924-87fa-4e43-adcc-38752dd44491.dat
 ########################################
 
 #=======================================
@@ -27,7 +27,7 @@
 # Identity:     154/155 (99.4%)
 # Similarity:   154/155 (99.4%)
 # Gaps:           0/155 ( 0.0%)
-# Score: 812.0
+# Score: 814.0
 # 
 #
 #=======================================
@@ -37,8 +37,8 @@
 78-542_1           1 MATKAVCVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHE     50
 
 78-542_1          51 FGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGDLGNVTADKDGVADVSI    100
-                     ||||||||||||||||||||||||||||||.|||||||||||||||||||
-78-542_1          51 FGDNTAGCTSAGPHFNPLSRKHGGPKDEERPVGDLGNVTADKDGVADVSI    100
+                     |||||||||||||||||||||||||||||||||.||||||||||||||||
+78-542_1          51 FGDNTAGCTSAGPHFNPLSRKHGGPKDEERHVGALGNVTADKDGVADVSI    100
 
 78-542_1         101 EDSVISLSGDHCIIGRTLVVHEKADDLGKGGNEESTKTGNAGSRLACGVI    150
                      ||||||||||||||||||||||||||||||||||||||||||||||||||
